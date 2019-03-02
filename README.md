@@ -8,10 +8,18 @@ Install package
 npm install
 ```
 
-running using Ionic
+Install Ionic
+```sh
+npm install ionic@latest
+```
+
+### Run application
+running using [Ionic](http://ionicframework.com)
+
 ```sh
 ionic serve
 ```
+
 
 
 
